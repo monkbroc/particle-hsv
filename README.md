@@ -80,4 +80,4 @@ If you wish to make your library public, use `particle library publish` or `Publ
 ## LICENSE
 Copyright 2016 Julien Vanier <jvanier@gmail.com>
 
-Licensed under the <insert your choice of license here> license
+Licensed under the MIT license
