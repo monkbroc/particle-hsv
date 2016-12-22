@@ -1,6 +1,6 @@
 # hsv
 
-A Particle library to convert color values from red green blue (RGB) to hue saturation value (HSV).
+A Particle library to convert color values between red green blue (RGB) and hue saturation value (HSV).
 
 ## Usage
 
