@@ -69,7 +69,7 @@ Change the name of the library in `library.properties` to something different. Y
 
 Modify the sources in <src> and <examples> with the new behavior.
 
-To compile an example, use `particle compile examples/usage` command in [Particle CLI](https://docs.particle.io/guide/tools-and-features/cli#update-your-device-remotely) or use our [Desktop IDE](https://docs.particle.io/guide/tools-and-features/dev/#compiling-code).
+To compile an example, use `particle compile examples/rainbow` command in [Particle CLI](https://docs.particle.io/guide/tools-and-features/cli#update-your-device-remotely) or use our [Desktop IDE](https://docs.particle.io/guide/tools-and-features/dev/#compiling-code).
 
 After your changes are done you can upload them with `particle library upload` or `Upload` command in the IDE. This will create a private (only visible by you) library that you can use in other projects. Do `particle library add hsv_myname` to add the library to a project on your machine or add the hsv_myname library to a project on the Web IDE or Desktop IDE.
 
